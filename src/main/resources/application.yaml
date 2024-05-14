@@ -1,0 +1,10 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /demo-app
+
+spring:
+  application:
+    name: demo-app
+  main:
+    banner-mode: off
